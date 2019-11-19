@@ -367,8 +367,7 @@ html {
     background-color: #004481;
     color: #ffffff; }
   .section--image-background {
-    height: 60vh;
-    padding: 75px 10% 10px 43%; }
+    height: 60vh; }
   .section__title {
     margin: 0px;
     text-align: center;
@@ -377,8 +376,8 @@ html {
     font-family: 'Roboto', sans-serif;
     font-size: 2.5vw; }
   .section__content {
-    padding-left: 25%;
-    padding-right: 25%; }
+    padding-left: 288px;
+    padding-right: 368px; }
   .section__footer {
     text-align: center; }
   @media (max-width: 700px) {
@@ -463,9 +462,7 @@ html {
   line-height: 50px;
   font-weight: bold;
   font-size: 16px;
-  color: #ffffff;
-  text-align: center;
-  text-decoration: none; }
+  color: #ffffff; }
   .button:hover {
     cursor: pointer;
     background-color: #017373; }
@@ -533,18 +530,6 @@ html {
       font-size: 3vw; }
     .service__link {
       font-size: 2.5vw; } }
-
-.information-box {
-  width: 550px;
-  height: 450px;
-  background-color: white;
-  padding: 10%;
-  font-family: 'Roboto', sans-serif; }
-  .information-box__title {
-    font-weight: bold;
-    font-size: 4vh; }
-  .information-box__description {
-    margin-bottom: 25px; }
 
 .l-puzzle {
   display: grid;
